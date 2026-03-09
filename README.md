@@ -268,7 +268,7 @@ The app rejects input above this with a clear error message.
 
 ---
 
-## AI Disclosure
+## AI Disclosure (Claude)
 
 I built both solutions myself, the cost formula, discount logic, and scheduling algorithm are my own work.
 I used AI as a refactoring tool: once my solution was working, I used it to help restructure the code into focused functions (separating core logic from I/O),
